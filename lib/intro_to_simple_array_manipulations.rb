@@ -47,8 +47,6 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
-  instruments.flatten
 end
 
 def using_delete(array,element)
