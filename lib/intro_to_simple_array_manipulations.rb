@@ -52,7 +52,7 @@ def using_flatten(array)
 end
 
 def using_delete(array,element)
-  i
+  instructors.delete("Steven")
   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
   
 end
