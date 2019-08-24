@@ -53,7 +53,7 @@ end
 
 def using_delete(array,element)
   
- instructors.delete("Steven") = 
+  instructors.delete("Steven") = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 
 end
  
